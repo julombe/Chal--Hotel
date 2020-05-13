@@ -9,6 +9,6 @@ Para executar o projecto, é necessário ter:
 
 Editor de texto da sua preferência para o desenvolvimento (visual studio code, sublime text ou outro).
 
-#Feito por:
+## Feito por:
 
-José Ulombe no treinamento de do curso de desenvolvimento Web | Udemy.
+José Ulombe no treinamento do curso de desenvolvimento Web | Udemy.
