@@ -10,21 +10,21 @@ body {
 	padding: 15px;
 }
 
-#container {
+.container {
 	background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
 	margin: 0 auto;
 	min-width: 740px;
 	max-width: 1180;
 	}
 
-#topo {
+.topo {
 	background: #dbcd87;
 	height: 15.4em;
 	min-height: 250px;
 	position: relative;
 }
 
-#area-logo {
+.area-logo {
 	background: url(../imagens/topo-imagem-principal.png) no-repeat;
 	height: 250px;
 	position: absolute;
@@ -47,7 +47,7 @@ body {
 
 }
 
-#area-menu {
+.area-menu {
 	background: url(../imagens/topo-imagem-lateral.png) no-repeat;
 	height: 250px;
 	position: absolute;
@@ -58,7 +58,7 @@ body {
 
 }
 
-#conteudo-menu {
+.conteudo-menu {
 	margin-left: 90px;
 	margin-right: 15px;
 	padding-top: 15px;
@@ -127,7 +127,7 @@ ul#navegacao a:hover {
 
 /* area de conteúdos */
 
-#area-principal {;
+#area-principal {
 	float: left;
 	width: 50%;
 	background: url(../imagens/bg-area-principal.png) top center repeat-x;
@@ -150,11 +150,13 @@ ul#navegacao a:hover {
 }
 
 
-#rodape {
+.rodape {
 	clear: both;
 	padding: 16px;
 	background: #fff url(../imagens/bg-rodape.png) repeat-x top;
 	color: #7d7640;
+	text-align: center;
+
 }
 
 /* formatações de texto */
