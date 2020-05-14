@@ -73,7 +73,7 @@ body {
 	color: #8b8448;
 }
 
-#menu-locias .locais {
+#menu-locais .locais {
 	float: left;
 	line-height: 2.1em;
 
@@ -93,7 +93,7 @@ a.reserva {
 
 /* barra de navegação vertical */
 
-#menu {
+.menu {
 	margin-top: 15px;
 }
 
@@ -102,11 +102,11 @@ ul {
 
 }
 
-ul#navegacao {
+ul.navegacao {
 	float: left;
 }
 
-ul#navegacao a {
+ul.navegacao a {
 	text-transform: uppercase;
 	font-size: 0.8em;
 	padding: 5px;
@@ -114,7 +114,7 @@ ul#navegacao a {
 	line-height: 30px;
 }
 
-ul#navegacao a:hover {
+ul.navegacao a:hover {
 	background: #fdf6be;
 }
 
@@ -127,7 +127,7 @@ ul#navegacao a:hover {
 
 /* area de conteúdos */
 
-#area-principal {
+.area-principal {
 	float: left;
 	width: 50%;
 	background: url(../imagens/bg-area-principal.png) top center repeat-x;
@@ -135,7 +135,7 @@ ul#navegacao a:hover {
 
 }
 
-#area-lateral {
+.area-lateral {
 	float: right;
 	width: 50%;
 	background: url(../imagens/bg-area-lateral.png) top center repeat-x;
@@ -175,31 +175,31 @@ p {
 /*formatações da area lateral*/
 
 
-#beneficios li {
+.beneficios li {
 	padding: 8px;
 	border-bottom: 1px solid #f3efcb;
 	height: 6em;
 } 
 
-#beneficios li a img {
+.beneficios li a img {
 	float: left;
 	margin-right: 8px;
 }
 
-#beneficios li a p {
+.beneficios li a p {
 	color: #000;
 	font-size: 0.8em;
 }
 
 
-#beneficios li a h3 {
+.beneficios li a h3 {
 	font-size: 1em;
 	padding: 5px 0;
 	color: #615b2d;
 	background: url(../imagens/ornamento.png) no-repeat center right;
 }
 
-#beneficios li:hover {
+.beneficios li:hover {
 	background: #f6f3d6;
 	cursor: pointer;
 }
