@@ -39,13 +39,3 @@ Made with love  💜 by José Ulombe
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
 - [Twitter](https://twitter.com/jose_ulombe)
 
-
-## Configuração
-
-Para executar o projecto, é necessário ter:
-
-Editor de texto da sua preferência para o desenvolvimento (visual studio code, sublime text ou outro).
-
-## Feito por:
-
-José Ulombe no treinamento do curso de desenvolvimento Web | Udemy.
