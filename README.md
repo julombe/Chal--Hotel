@@ -29,7 +29,7 @@ Foram utilizadas as seguintes ferramentas:
 
 ```bash
 # Clonar o repositório
-$ https://github.com/julombe/Barbearia-Alura
+$ https://github.com/julombe/Chale-Hotel
 ````
 ---
 
