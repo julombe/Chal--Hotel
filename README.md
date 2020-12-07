@@ -23,9 +23,6 @@ Foram utilizadas as seguintes ferramentas:
 
 - HTML5
 - CSS3 
-- JavaScript
-- Node.js
-- Nunjucks
 ---
 
 ## Como baixar o projecto
