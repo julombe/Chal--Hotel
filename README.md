@@ -1,11 +1,11 @@
 
 <h1 align="center">
-    <p>Barbearia Alura</p>
+    <p>Chalé Hotel</p>
 </h1>
 
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/jlzh3neixu/barbearia_tRu7SCLIQ.png">
+    <img src="">
 </h1>
 
 ---
