@@ -10,7 +10,7 @@
 
 ---
 
-## ✂ Sobre
+## 📂 Sobre
 
 <p align="justify"> Esta página foi desenvolvida para praticar conceitos de HTML e CSS sobre layout fluídos.
 A página em si não apresenta nenhuma interactividade ou seja, é apenas uma página estática. </p>
